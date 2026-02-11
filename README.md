@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Karen-Happuch
-- 👀 I’m interested in ui/ux design and web development
-
+- I am a passionate product designer with a track record of crafting intuitive,
+human-centered experiences that simplify complexity with exceptional clarity,
+meticulous detail, and cross-functional collaboration.
 
 
 <!---
